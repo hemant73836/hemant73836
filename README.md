@@ -11,9 +11,11 @@
 <h3 align="center">🛠️ Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,tensorflow,postgres&perline=6" />
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,postgres&perline=4" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
